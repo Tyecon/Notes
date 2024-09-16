@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c57d653f33a61758","x":-1000,"y":-180,"width":170,"height":300,"type":"text","text":"Macerator\n## Input\nPlantball\n## Output\nPlant Mass"},
+		{"id":"d2fa9ead539a1944","x":-780,"y":-180,"width":158,"height":300,"type":"text","text":"Centrifuge\n## Input\nPlant Mass\n## Output\nBiochaff"},
+		{"id":"a04f31dc9629eec8","type":"text","text":"Pyrolyse Oven\n## Input\nBiochaff\n## Output\nBiomass","x":-580,"y":-180,"width":180,"height":300},
+		{"id":"d80fddd555c7e46d","x":-1220,"y":-180,"width":174,"height":300,"type":"text","text":"Compressor\n## Input\nPlants\n\n## Output\nPlantball"}
+	],
+	"edges":[
+		{"id":"a53679dad9476ecd","fromNode":"c57d653f33a61758","fromSide":"right","toNode":"d2fa9ead539a1944","toSide":"left"},
+		{"id":"cede59e5b48c132d","fromNode":"d2fa9ead539a1944","fromSide":"right","toNode":"a04f31dc9629eec8","toSide":"left"},
+		{"id":"864d4b2a552d5094","fromNode":"d80fddd555c7e46d","fromSide":"right","toNode":"c57d653f33a61758","toSide":"left"}
+	]
+}

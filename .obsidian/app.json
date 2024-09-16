@@ -1,0 +1,18 @@
+{
+  "tabSize": 4,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Roaming",
+  "showUnsupportedFiles": true,
+  "showRibbon": false,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "foldHeading": true,
+  "foldIndent": true
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#6600cc",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "showViewHeader": false,
+  "enabledCssSnippets": [],
+  "textFontFamily": "Roboto",
+  "interfaceFontFamily": "Roboto",
+  "theme": "system",
+  "baseFontSize": 16
+}

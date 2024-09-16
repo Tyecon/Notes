@@ -1,0 +1,10 @@
+#+title: ${title}
+#+author: ${Author}
+#+date: ${Pub Date}
+#+filetags: :${Tags}:
+
+* Summary
+%?
+
+* References
+1.

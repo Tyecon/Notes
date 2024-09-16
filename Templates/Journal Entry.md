@@ -1,0 +1,4 @@
+---
+tags:
+---
+# <% date.now("YYYY") %>

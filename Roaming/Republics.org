@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       671dec94-4173-4f8b-8fa4-9eebd0004767
+:END:
+#+title: Republics
+#+filetags: :Rant:Ideology:Ethics:Politics:
+
+* Summary
+A republic is a form of governance where the people and their elected representatives hold political power. The Roman Republic built upon the ideals of democracy in Athens / Ancient Greece and Plato's The Republic are the earliest examples of this political philosophy.
+** Representation
+People elect representatives into congress, boards, or parliaments to make decisions on their behalf.
+** Separation of Power
+Different branches of government such as legislative, executive, and judicial branches or ministries share political power to keep any branch from becoming too powerful.
+** Rule of Law
+All citizens and the government itself is accountable under law. A constitution or set of laws binds government and citizen alike, restricting the government from acting out of line just as much as it's citizens and enforcing equality.
+** Protection of Individual Rights
+The government prioritizes the rights and liberties of individuals such as freedom of expression, religion, and right to due process.
+** Democratic Principles
+These systems of government often (but not always) incorporate democracy such as elections, political participation, and respect for minority rights.
+
+* Criticisms
+- /Meta: Opinionated, Citations Needed/
+** Representation Manipulation
+Elected representatives often do not reflect the wants and needs of the people they represent. While this protects minority voters from a tyranny by majority, often the views of representatives are at odds with voters of all kinds. Elections of representatives often use complex systems, two party limitations, small party exclusion, seating limitation and control, gerrymandering voter zoning, electoral colleges, and first-past-the-post methods to subvert the democracy of the masses leaving people often feeling disappointed with the results.
+** Separation of Power from the People
+Poor electoral representation often leaves a single party in excessive control of a branch of power. This allows endlessly delaying bills not because of content, but simply due to it being from another party. The modularity of the branches often causes miscommunications between it's systems. Parties often assign their backed ministers to each departmental field (education, transportation, defense, etc) instead of endofunctionally choosing the best (geniocratic) ministers regardless of party or identity politics.
+** Abuse of the Rule of Law
+Constitutional laws are often subjectively interpreted in a way that benefits the issuer. The issue of civil freedoms vs national security is much more nuanced than any document can provide. Constitutional policies are often generated for the environment and systems of their time and space, and become problematic as time and [[id:6541ab8b-eb93-41fd-a704-a5dd6f751b7e][sociocybernetic]] evidence progresses. Amendments are infrequently proposed and successful, often requiring a substantial period to assess the requirements and rationale needed for the new laws.
+- /Meta: Civil Freedoms Vs National Security might need a note./
+** Protection of the Corrupt
+The liberties that republics introduce are often wielded by powerful individuals and corporations to insure their personal success at the expense of others. Using financial resources or influence to lobby representatives in order to advance their own agendas, for instance. Too often the law treats corporations with the same or greater rights than individuals.
+** Democracy But The People Are Stupid
+Direct democracy faces challenges with scalability, efficiency, stability, accountability, protection of minorities, and consultation of expertise that republics seek to amend but frequently fall prey to the same things they seek to prevent. As the world has become more connected through the internet and social media, political apathy has decreased causing people to polarize towards a single party which has caused greater sociopolitical conflict among the masses. The historical political invalidity of internet complaining and public protest in republics has caused questions of using public referendum through digital democracy. This may lead to new greater problems as people aggressively campaign against each other over exaggerated issues.
+
+Regardless republics exceed the sociosystemic egalitarian validity of the more authoritarian, democratic, libertarian, and anarchical political philosophies.
+
+* Solutions
+** Electoral Reform
+Reforming our elective process through elimination of first-past-the-post voting systems, and systemic increases of proportional representation, ranked-choice voting, and mixed-member representation.
+** Legislative Iteration between Nested Governance
+There should be an iterative algorithmic reassessment of laws and how they interact between the federal, state, and municipal levels of government.
+** Accountability and Transparency
+The ongoing processes of the government and its officials should be available to all and constantly scrutinized. Holding politicians accountable should not be a monumental task; rather, they should hold each other accountable just as well as the public does. Assessments of politicians' significant financial movements are crucial. Exclusions for national and personal security are necessary until public unrest on a specific issues necessitates answers.
+** Political Restraints
+Serving in public office requires politicians to make sacrifices, including sacrificing some aspects of privacy and safety. Politicians should not take their role lightly, and there should be clear limitations on their financial activities to prevent profiteering from legislation. Specifically, politicians should prohibited from engaging in public trading to prevent insider trading and corruption. Holding public office should mandate divestment from ownership interests outside of personal housing, and abstention from involvement in company or business activities during their tenure (with the exception of advisory roles, subject to predefined scope limits). While term limits are essential, retired officials may contribute in advisory capacities within defined parameters.
+- /Meta: I feel a bit hypocritical in my views here./
+** Public Referendum
+While social media has the potential to reduce political apathy, individuals still feel politically powerless when none of the available representatives truly represent their views, often leading to a perception of choosing the "lesser evil." Digital democracy paves the way for scalability and accessibility. Of course security is an utmost concern; social media campaigns, propagandist advertising, and botnets easily sway polls and opinions including those of representatives. One potential solution could involve implementing secure, unnetworked voting computers at every municipality's town hall to facilitate safe public referendums. This approach could also reduce election costs by shifting to a one-time upfront investment.
+
+* References
+[fn:1] The Screwing of the Average Man by David Hapgood 1974

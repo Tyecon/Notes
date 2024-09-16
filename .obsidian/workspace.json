@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "e09766c0f1bce5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16a60ba3d4617e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf76e73598c57576",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/Smart Second Brain.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b80e291036246fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Technology/Databases.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5c3a0b74b9a2b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab2e6f5a36497b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7e36cc8a3c9ad9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7727224bbca8bab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3bf20070f193d22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "53e17125e13f10bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac73c65f8f0d0d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be27b2bf7b5dd253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Technology/Databases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9141779c62a0beb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Technology/Databases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6320c930ae3c68c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194cb3e2c98bf9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/Technology/Databases.md"
+              }
+            }
+          },
+          {
+            "id": "c0bf24563d0420b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 639.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-second-brain:Open S2B Chat": false
+    }
+  },
+  "active": "b80e291036246fba",
+  "lastOpenFiles": [
+    "Concepts/Music/Guitar.md",
+    "Chats/Smart Second Brain.md",
+    "Concepts/Technology",
+    "Concepts/Music",
+    "Homepage.md",
+    "Concepts/Technology/Databases.md",
+    "Concepts/Music/Music Discovery.md",
+    "Roaming/Self-Help.md",
+    "Journals/Dreams.md",
+    "Roaming/Productivity.md",
+    "Roaming/Hobbies.md",
+    "Roaming/Relationships.md",
+    "Roaming/Sleep.md",
+    "Roaming/Tech Literacy.md",
+    "Roaming/Zettelkasten.md",
+    "Chats/New Chat.md",
+    "Chats",
+    "Roaming/1.md",
+    "Roaming/Dream Journaling.md",
+    "Roaming/^Dream.md",
+    "Roaming/().md",
+    "References/@tenzinwangyalrinpochiTibetianYogasDream1998.md",
+    "Roaming/Tenzin.md",
+    "Concepts/Humanities/Psychology.md",
+    "Concepts/Humanities/Sociology.md",
+    "Roaming/Guilt and Shame.md",
+    "Templates/Map of Content.md",
+    "Journals/2024.md",
+    "github.com",
+    "Roaming/Music Hierarchy.canvas",
+    "Concepts/Humanities",
+    "Concepts/Sociology",
+    "01/09",
+    "01",
+    "References/Zotero.bib",
+    "Templates",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Machine Room.canvas",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Biomass.canvas",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Fuel Line/Fuel Line Plan.canvas"
+  ]
+}

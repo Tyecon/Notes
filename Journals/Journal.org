@@ -1,0 +1,5 @@
+#+title: Journal
+#+author: Tyecon 'Nick' Veneficus
+
+* Map of Content
+** [[file:2024.org][2024]]

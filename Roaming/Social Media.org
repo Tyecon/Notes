@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       b3cc10c2-37c3-4e12-a96a-01f2f0aeacf6
+:END:
+#+title: Social Media
+#+created: [2024-03-27 Wed 16:12]
+#+filetags: :Essay:Psychology:Philosophy:Sociology:
+
+* TODO Summary
+- how people feel they need to make it on social media to succeed nowadays
+- how they are the most popular jobs
+- how only a tiny percentage can make enough for it to be a career
+- how it's really just advertising contracting
+- how it can be such a common side hustle but that leaves everyone not on social media or not successful with it at a disadvantage
+
+* ChatGPT
+Title: Social Media: The Illusion of Success and Its Impact on Society
+
+    Introduction:
+        Social media has become an integral part of modern life, influencing how people perceive success, careers, and personal identity.
+        While many view social media as a pathway to success and fame, the reality often diverges from the illusion portrayed online.
+
+    The Perception of Success:
+        In today's society, there is a pervasive belief that achieving success necessitates a strong presence on social media platforms.
+        Individuals may feel pressured to curate a polished online persona to project an image of success and accomplishment.
+
+    Popularity as a Career:
+        The rise of influencers, content creators, and social media personalities has led to the perception that social media fame equates to a lucrative career.
+        Social media-related professions, such as influencer marketing, content creation, and digital advertising, have become increasingly popular and sought after.
+
+    The Reality of Social Media Careers:
+        Despite the allure of social media fame, only a tiny percentage of individuals achieve enough success to sustain a career solely through social media.
+        The reality is that many aspiring influencers and content creators struggle to generate sufficient income to support themselves, let alone thrive financially.
+
+    Advertising Contracting and Influencer Culture:
+        Social media platforms often function as advertising spaces, with influencers and content creators serving as conduits for brand promotion.
+        Influencer culture blurs the lines between authentic content and sponsored advertising, leading to skepticism and distrust among audiences.
+
+    The Side Hustle Phenomenon:
+        Social media has democratized the ability to monetize one's online presence, leading to the proliferation of side hustles and entrepreneurial endeavors.
+        However, relying on social media as a primary source of income can leave those who are not successful or engaged with social media at a disadvantage.
+
+    Challenges and Critiques:
+        Critiques of social media culture include concerns about its impact on mental health, self-esteem, and societal values.
+        The pursuit of online validation and comparison can lead to feelings of inadequacy and contribute to a culture of unrealistic expectations.
+
+    Conclusion:
+        While social media offers opportunities for connection, creativity, and entrepreneurship, it's essential to recognize the disparity between the illusion of success perpetuated online and the reality faced by many.
+        By fostering a more nuanced understanding of social media's role in society, individuals can navigate its complexities with greater awareness and resilience.
