@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a76105b4883f3f17",
+            "id": "fe551794678ec693",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fe551794678ec693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roaming/Cooking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roaming/Cooking.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roaming/Cooking.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roaming/Cooking.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -178,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,10 +188,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fe551794678ec693",
+  "active": "83e592bdf87ea471",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Journals/Events/2024-10-07 Start Work at KrakenSense.md",
+    "Journals/Events/2024-10-01 Moving.md",
+    "Journals/Dream Journal.md",
+    "Concepts/Humanities/Psychology/Dreams.md",
     "Roaming/Cooking.md",
+    "Homepage.md",
     "Roaming/Coding.md",
     "Concepts/Humanities/Knowledge Management/Knowledge Management.md",
     "Concepts/Humanities/Knowledge Management/How to Take Smart Notes - Sonke Ahrens - 2017.md",
@@ -228,11 +219,7 @@
     "References/Friedrich Nietzsche/Beyond Good and Evil - Friedrich Nietzsche - 1886.md",
     "References/Niccolo Machiavelli/The Prince - Niccolo Machiavelli - 1513.md",
     "References/Friedrich Nietzsche/@nietzscheGoodEvil1886.md",
-    "References/Niccolo Machiavelli/@machiavelliPrince1513.md",
-    "References/Niccolo Machiavelli/machiavelliPrince1513.md",
-    "References/Unsolicited Advice/How Good People Lose Power - Machiavelli's The Prince - Unsolicited Advice - 2024.md",
     "References/Unsolicited Advice",
-    "References/Niccolò Machiavelli/machiavelliPrince1513.md",
     "References/Niccolò Machiavelli",
     "References/Friedrich Nietzsche",
     "References/Nietzsche",

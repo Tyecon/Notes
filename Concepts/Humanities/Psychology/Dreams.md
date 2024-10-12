@@ -4,5 +4,4 @@ Topics: [[Psychology]]
 ## Dream Journaling
 Recording personal dreams. This will make you remember more of your dreams and interact with your subconscious. [^1] 
 
-#TODO Move from ORG
 [^1]: [_The Tibetian Yogas Of Dream And Sleep_](http://archive.org/details/TheTibetianYogasOfDreamAndSleep),  Tenzin Wangyal Rinpochi, 1998
