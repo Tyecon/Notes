@@ -1,0 +1,36 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#cc5c00",
+      "url": "webcal://cantonbecker.com/astronomy-calendar/astrocal.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#288500",
+      "url": "https://canada-holidays.ca/ics/ON?cd=true"
+    },
+    {
+      "type": "local",
+      "color": "#0d004a",
+      "directory": "Journals/Events"
+    },
+    {
+      "type": "local",
+      "color": "#808080",
+      "directory": "Journals/Events/Work"
+    },
+    {
+      "type": "ical",
+      "color": "#4d8bb3",
+      "url": "file:///C:/Users/Tyecon/Downloads/TyeTasks.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "listWeek"
+  },
+  "timeFormat24h": true
+}

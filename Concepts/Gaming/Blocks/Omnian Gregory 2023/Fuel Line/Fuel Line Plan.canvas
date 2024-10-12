@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"469cc151342467c7","type":"file","file":"Fuel Line/Electrolyser-Water.md","x":-1000,"y":-362,"width":480,"height":462},
+		{"id":"9269996cbc10f295","type":"file","file":"Fuel Line/Electric Blast Furnace.md","x":-920,"y":360,"width":320,"height":400},
+		{"id":"68a025f112f708ed","type":"file","file":"Fuel Line/Water.md","x":-1420,"y":360,"width":280,"height":400},
+		{"id":"a9f3522ba64238d6","type":"file","file":"Fuel Line/Canner-Water.md","x":-1420,"y":-291,"width":280,"height":391},
+		{"id":"7e8b24841f1c69f4","type":"file","file":"Fuel Line/ChemR-Diluted Acid.md","x":-1920,"y":-291,"width":390,"height":391},
+		{"id":"42c2787abc20b267","type":"file","file":"Fuel Line/Distillery-Acid.md","x":-2480,"y":-291,"width":400,"height":391},
+		{"id":"3267d5a234448693","type":"file","file":"Fuel Line/ChemR-Fuel.md","x":-2960,"y":-291,"width":360,"height":451},
+		{"id":"45e783a82060ca9f","type":"file","file":"Fuel Line/Mixer (MV)-Diesel.md","x":-3320,"y":-291,"width":280,"height":371}
+	],
+	"edges":[
+		{"id":"7806342a80b48f28","fromNode":"469cc151342467c7","fromSide":"bottom","toNode":"9269996cbc10f295","toSide":"top","fromEnd":"arrow","color":"5","label":"Conveyor on Hatch (Export allow Input)\nOutput Items allow Input\n(Screwdriver the Machine Output)\nWrench Output Toward Hatch\n"},
+		{"id":"ec6ed8a48135dd8f","fromNode":"3267d5a234448693","fromSide":"top","toNode":"45e783a82060ca9f","toSide":"top","color":"#fafe16","label":"Item Pipes"},
+		{"id":"a360b1cf7bc118fc","fromNode":"7e8b24841f1c69f4","fromSide":"left","toNode":"42c2787abc20b267","toSide":"right","color":"#8c5b3b","label":"Pump"},
+		{"id":"c971287b5de83f05","fromNode":"68a025f112f708ed","fromSide":"top","toNode":"a9f3522ba64238d6","toSide":"bottom","color":"5"},
+		{"id":"50d58025867af289","fromNode":"68a025f112f708ed","fromSide":"top","toNode":"469cc151342467c7","toSide":"left","color":"5"},
+		{"id":"03c1c1295debf97a","fromNode":"a9f3522ba64238d6","fromSide":"left","toNode":"7e8b24841f1c69f4","toSide":"right","fromEnd":"arrow"},
+		{"id":"119b2af47b7402d8","fromNode":"3267d5a234448693","fromSide":"top","toNode":"7e8b24841f1c69f4","toSide":"top","color":"#ff7452"},
+		{"id":"eaa0e257700fcf33","fromNode":"469cc151342467c7","fromSide":"top","toNode":"3267d5a234448693","toSide":"top","color":"2","label":"Pumps into Nonuple Pipe"}
+	]
+}

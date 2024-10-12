@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "e09766c0f1bce5b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0067c1112e66542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76105b4883f3f17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fe551794678ec693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roaming/Cooking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5c3a0b74b9a2b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab2e6f5a36497b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7e36cc8a3c9ad9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "7727224bbca8bab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3bf20070f193d22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "53e17125e13f10bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac73c65f8f0d0d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c29e2e29e6f62529",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "be27b2bf7b5dd253",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roaming/Cooking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9141779c62a0beb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roaming/Cooking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6320c930ae3c68c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194cb3e2c98bf9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roaming/Cooking.md"
+              }
+            }
+          },
+          {
+            "id": "c0bf24563d0420b4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "83e592bdf87ea471",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1d674adaaccc1be",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 639.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "daily-notes:Open today's daily note": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "fe551794678ec693",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Roaming/Cooking.md",
+    "Roaming/Coding.md",
+    "Concepts/Humanities/Knowledge Management/Knowledge Management.md",
+    "Concepts/Humanities/Knowledge Management/How to Take Smart Notes - Sonke Ahrens - 2017.md",
+    "References/Sönke Ahrens/How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking - Sönke Ahrens - 2017.md",
+    "Projects/Notes.md",
+    "Roaming/Meditation.md",
+    "Roaming/Self-Help.md",
+    "Roaming/Globalisation.md",
+    "Templates/Literature Note.md",
+    "References/Sönke Ahrens",
+    "Concepts/Humanities/Knowledge Management",
+    "Roaming/Sleep.md",
+    "Concepts/Music/Guitar.md",
+    "Templates/Snippets/Journal Entry.md",
+    "Templates/Fleeting Note.md",
+    "Templates/Snippets/Map of Content.md",
+    "Templates/Snippets/Signature.md",
+    "Concepts/Humanities/Psychology/Psychology.md",
+    "Templates/Snippets",
+    "References/Niccolo Machiavelli/Niccolo Machiavelli.md",
+    "References/Friedrich Nietzsche/Beyond Good and Evil - Friedrich Nietzsche - 1886.md",
+    "References/Niccolo Machiavelli/The Prince - Niccolo Machiavelli - 1513.md",
+    "References/Friedrich Nietzsche/@nietzscheGoodEvil1886.md",
+    "References/Niccolo Machiavelli/@machiavelliPrince1513.md",
+    "References/Niccolo Machiavelli/machiavelliPrince1513.md",
+    "References/Unsolicited Advice/How Good People Lose Power - Machiavelli's The Prince - Unsolicited Advice - 2024.md",
+    "References/Unsolicited Advice",
+    "References/Niccolò Machiavelli/machiavelliPrince1513.md",
+    "References/Niccolò Machiavelli",
+    "References/Friedrich Nietzsche",
+    "References/Nietzsche",
+    "References/Niccolo Machiavelli",
+    "Aldous Huxley",
+    "smart-chats",
+    "Roaming/Music Hierarchy.canvas",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Machine Room.canvas",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Biomass.canvas",
+    "Concepts/Gaming/Blocks/Omnian Gregory 2023/Fuel Line/Fuel Line Plan.canvas"
+  ]
+}

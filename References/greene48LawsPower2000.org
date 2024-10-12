@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9fca9f58-6315-467b-8b27-dfcd3df0c875
+:ROAM_REFS: @greene48LawsPower2000
+:END:
+#+title: The 48 Laws of Power
+#+author: Robert Greene, Joost Elffers
+#+date: Jan 9, 2000
+#+filetags: :Essay:Ethics:Philosophy:Politics:War:
+
+* TODO Read Laws of Power
+[cite:@greene48LawsPower2000]

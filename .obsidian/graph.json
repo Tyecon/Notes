@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 16119285
+      }
+    },
+    {
+      "query": "path:Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 11064762
+      }
+    },
+    {
+      "query": "path:References  ",
+      "color": {
+        "a": 1,
+        "rgb": 13808780
+      }
+    },
+    {
+      "query": "path:Concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 10732787
+      }
+    },
+    {
+      "query": "path:Roaming  ",
+      "color": {
+        "a": 1,
+        "rgb": 13882323
+      }
+    },
+    {
+      "query": "tag:#Archive  ",
+      "color": {
+        "a": 1,
+        "rgb": 16033960
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.56941489286676,
+  "close": true
+}

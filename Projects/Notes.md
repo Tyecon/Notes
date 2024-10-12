@@ -1,0 +1,17 @@
+# Notes Meta Project
+- [x] Test Tasks
+- [x] Take some short notes on Ahren's Book [[Knowledge Management]]
+- [x] Change tags to Areas linking
+- [-] Add status properties for todos instead of tags
+- [x] Snippets not templates
+- [ ] Authors as folder notes MOC to their references. References as citekeys.
+- [ ] Zotero URLs to Wikipedia
+- [ ] Rewrite Self Help
+- [ ] 🔼 Move Emacs notes into Obsidian
+	- [ ] [[2024]]
+	- [ ] [[Dreams]]
+- [ ] 🔼 Move College notes into Obsidian
+	- [ ] [[Databases]]
+- [ ] Note Encryption
+- [x] Mobile Obsidian Setup
+- [ ] Move Media Master List to Zotero

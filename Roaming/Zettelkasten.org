@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       4393f53e-1747-41c9-8a08-d1a98cefc33e
+:END:
+#+title: Zettelkasten
+#+people: Niklas Luhmann
+#+filetags: :Sociology:Psychology:Education:
+
+* Summary
+Note-taking and knowledge management method that developed by sociologist [[https://en.wikipedia.org/wiki/Niklas_Luhmann][Niklas_Luhmann]].
+
+** Reference Directory
+*** Literature Notes
+Short comments on things you are reading/watching.
+*** Reference Notes
+Reference details and summary of content.
+** Permanent Directory
+*** Keywords and Tagging
+When and how will I use this idea.
+*** Permanent Notes
+Connect the reference notes (what you just learned) and relate them to your ideas (what you already know).
+*** Fleeting Notes
+Write down small ideas on the fly for permanent notes later.
+
+* References
+1. [[https://en.wikipedia.org/wiki/Zettelkasten][Wikipedia]]
+2. As We May Think by Vanevar Bush 1945 [cite:@vannevarbushWeMayThink1945]
+3. How To Take Smart Notes by Sonke Ahrens 2017 [cite:@ahrensHowTakeSmart2017]
+4. Building a Second Brain by Tiago Forte 2022 [cite:@forteBuildingSecondBrain2022]

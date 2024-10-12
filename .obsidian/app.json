@@ -1,0 +1,27 @@
+{
+  "tabSize": 4,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Roaming",
+  "showUnsupportedFiles": true,
+  "showRibbon": false,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "Chats/",
+    "Templates/",
+    "Journals/Events/"
+  ],
+  "smartIndentList": true
+}
