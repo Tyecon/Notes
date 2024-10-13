@@ -9,7 +9,7 @@
 - [ ] Rewrite Self Help
 - [ ] 🔼 Move Emacs notes into Obsidian
 	- [ ] [[2024]]
-	- [ ] [[Dreams]]
+	- [ ] [[Sleep, Fatigue, and Dreams]]
 - [ ] 🔼 Move College notes into Obsidian
 	- [ ] [[Databases]]
 - [ ] Note Encryption

@@ -12,21 +12,8 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Journals",
-      "template": "Templates/Journal Entry.md"
-    },
-    {
-      "folder": "References",
-      "template": "Templates/Reference.md"
-    },
-    {
-      "folder": "Concepts",
-      "template": "Templates/Map of Content.md"
-    }
-  ],
+  "enable_folder_templates": false,
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [

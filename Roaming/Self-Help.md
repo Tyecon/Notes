@@ -26,7 +26,7 @@ SORT file.mtime DESC
 ## Communication Skills
 #TODO/Writing-Prompt
 ## Sleep
-![[Sleep]]
+![[Sleep, Fatigue, and Dreams]]
 
 ![[Productivity]]
 
@@ -43,7 +43,7 @@ Recording personal episodic events and thoughts in order to reflect upon them. E
 this will help productivity as opposed to writing boring every day garbage. Write down bullet points of daily events and tasks and categorise tasks. Ask an AI for guided journal prompts. Write something you are grateful for. Dump all the ideas floating around in your mind. Imagine reading your journal down the line.
 
 ![[Knowledge Management]]
-## ![[Dreams|Dream Journaling]]
+## ![[Sleep, Fatigue, and Dreams|Dream Journaling]]
 ![[Meditation]]
 ## Visualisation
 ## Eyes
