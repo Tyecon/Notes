@@ -1,3 +1,4 @@
+Tags: [[Technology]]
 ## Good Practices
 ### Never Nesting
 Invert conditionals and break before main logic.

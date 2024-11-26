@@ -1,4 +1,4 @@
-Topics: [[Psychology]], [[Sociology]], [[Productivity]], [[Self-Help]], [[Education]]  
+Topics: [[Psychology]], [[Sociology]], [[Time Management & Productivity]], #Self-Help, [[Education]]  
 Note taking and building a second brain to store information.
 # Dewey Decimal System (DDC)
 https://en.wikipedia.org/wiki/Dewey_Decimal_Classification

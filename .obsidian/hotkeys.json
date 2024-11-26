@@ -7,14 +7,6 @@
       "key": "P"
     }
   ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": ";"
-    }
-  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -91,6 +83,40 @@
     {
       "modifiers": [],
       "key": "F7"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }

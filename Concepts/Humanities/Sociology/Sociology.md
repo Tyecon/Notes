@@ -2,7 +2,7 @@
 tags:
   - MOC
 ---
- The study of society, social relationships, and social group dynamics. It is the exocentric equivalent of [[Psychology]].
+The study of society, social relationships, and social group dynamics. It is the exocentric equivalent of [[Psychology]].
 ## ChatGPT
 Sociology is the scientific study of society, social relationships, and the dynamics of social groups. It explores how individuals interact within larger social structures and how societies organise, develop, and change over time. Sociologists analyse aspects of social life, including culture, social institutions, social inequality, social norms, social change, and social behaviour.
 Key areas of focus in sociology include:

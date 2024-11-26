@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dab2c15d483c71b",
+            "id": "6e7d0ca3e54f7293",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -19,20 +19,24 @@
                 "backlinks": true,
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           },
           {
-            "id": "929bd666efeca070",
+            "id": "016e270f173f8f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Biology/Sleep, Fatigue, and Dreams.md",
+                "file": "Concepts/Biology/Physical Wellness.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Physical Wellness"
             }
           }
         ],
@@ -56,7 +60,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,13 +71,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Self-Help",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -79,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
-              "state": {}
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Biology/Sleep, Fatigue, and Dreams.md",
+                "file": "Concepts/Biology/Physical Wellness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Physical Wellness"
             }
           },
           {
@@ -127,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Biology/Sleep, Fatigue, and Dreams.md",
+                "file": "Concepts/Biology/Physical Wellness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Physical Wellness"
             }
           },
           {
@@ -141,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Biology/Sleep, Fatigue, and Dreams.md"
-              }
+                "file": "Concepts/Biology/Physical Wellness.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Physical Wellness"
             }
           },
           {
@@ -159,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -167,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -175,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -192,7 +218,6 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "obsidian-projects:Open projects": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
@@ -204,42 +229,42 @@
   },
   "active": "83e592bdf87ea471",
   "lastOpenFiles": [
-    "Concepts/Humanities/Psychology/Dreams.md",
+    "Concepts/Humanities/Spirituality/Exorcisms.md",
     "Concepts/Biology/Sleep, Fatigue, and Dreams.md",
-    "Concepts/Biology/Hormones.md",
-    "Roaming/Globalisation.md",
-    "Roaming/Fatigue.md",
     "Homepage.md",
-    "Concepts/Biology",
-    "Journals/Events/2024-10-07 Start Work at KrakenSense.md",
-    "Journals/Events/2024-10-01 Moving.md",
+    "Concepts/Humanities/Sociology/Welfare.md",
+    "Concepts/Humanities/Sociology/Sociology.md",
+    "Concepts/Humanities/Psychology/Time Management & Productivity.md",
+    "Concepts/Humanities/Sociology/Domestic Work.md",
+    "Concepts/Humanities/Sociology/Finances.md",
+    "Concepts/Humanities/Psychology/Psychology.md",
+    "Concepts/Technology/Cooking.md",
+    "Concepts/Humanities/Psychology/Mental Wellness.md",
+    "Concepts/Psychology/Mental Discorders.md",
+    "Concepts/Psychology",
+    "Concepts/Humanities/Spirituality/Meditation.md",
     "Journals/Dream Journal.md",
-    "Roaming/Cooking.md",
-    "Roaming/Coding.md",
-    "Concepts/Humanities/Knowledge Management/Knowledge Management.md",
-    "Concepts/Humanities/Knowledge Management/How to Take Smart Notes - Sonke Ahrens - 2017.md",
-    "References/Sönke Ahrens/How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking - Sönke Ahrens - 2017.md",
-    "Projects/Notes.md",
-    "Roaming/Meditation.md",
+    "Concepts/Technology/Tech Literacy.md",
     "Roaming/Self-Help.md",
-    "Templates/Literature Note.md",
+    "Roaming/Exercise.md",
+    "Concepts/Humanities/Psychology/Relationships.md",
+    "Concepts/Biology/Physical Wellness.md",
+    "Concepts/Humanities/Knowledge Management/Knowledge Management.md",
+    "Concepts/Humanities/Psychology/Hobbies.md",
+    "Concepts/Humanities/Psychology/Self-Help.md",
+    "Concepts/Biology/Drugs & Medications.md",
+    "Concepts/Humanities/Sociology/Globalisation.md",
+    "Concepts/Humanities/Spirituality",
+    "Concepts/Technology/Coding.md",
+    "Concepts/Technology/Databases.md",
+    "Concepts/Biology",
     "References/Sönke Ahrens",
     "Concepts/Humanities/Knowledge Management",
-    "Concepts/Music/Guitar.md",
-    "Templates/Snippets/Journal Entry.md",
-    "Templates/Fleeting Note.md",
-    "Templates/Snippets/Map of Content.md",
-    "Templates/Snippets/Signature.md",
-    "Concepts/Humanities/Psychology/Psychology.md",
     "Templates/Snippets",
-    "References/Niccolo Machiavelli/Niccolo Machiavelli.md",
-    "References/Friedrich Nietzsche/Beyond Good and Evil - Friedrich Nietzsche - 1886.md",
     "References/Unsolicited Advice",
     "References/Niccolò Machiavelli",
     "References/Friedrich Nietzsche",
     "References/Nietzsche",
-    "References/Niccolo Machiavelli",
-    "Aldous Huxley",
     "Roaming/Music Hierarchy.canvas",
     "Concepts/Gaming/Blocks/Omnian Gregory 2023/Machine Room.canvas",
     "Concepts/Gaming/Blocks/Omnian Gregory 2023/Biomass.canvas",

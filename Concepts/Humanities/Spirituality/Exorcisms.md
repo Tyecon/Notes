@@ -1,7 +1,6 @@
 Tags: [[Spirituality]], [[Security]], [[Metaphysics]]
 # Old Catholic Latin Exorcism
 Below is the primary exorcism prayer from the Rituale Romanum, 1614 edition, also known as the Exorcismus in Satanam et Angelos Apostaticos (Exorcism against Satan and the Apostate Angels).
----
 
 Exorcismus Te:
 "Exorcizamus te, omnis immunde spiritus, omnis satanica potestas, omnis incursio infernalis adversarii, omnis legio, omnis congregatio et secta diabolica, in nomine et virtute Domini nostri Iesu Christi, eradicare et effugare a Dei Ecclesia, ab animabus ad imaginem Dei conditis ac pretioso divini Agni sanguine redemptis.
@@ -48,6 +47,6 @@ Humiliamini sub potenti manu Dei; contremisce et effuge, invocato a nobis sancto
 
 Additional Notes:
 1. Conditions for Use: This rite is performed only under the authority of a bishop. A priest must be specifically appointed as an exorcist and have undergone training.
-[!NOTE] kek
+> [!NOTE] kek
 2. Structure: The ritual includes prayers, readings from Scripture, the use of holy water, and invocations of saints and Christ’s authority.
 3. Modern Use: Updated in 1999 for linguistic clarity, but the Latin version is still valid.
