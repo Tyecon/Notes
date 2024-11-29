@@ -44,30 +44,22 @@ Extra:
 - Reach through (20): Lay down with knees up. Cross hands. Bend to touch knees.
 - Flutter Kicks (40): Bend/swing straight legs back and forth in air.
 
-##Current Routine
-Push-ups: Standard, incline, or diamond push-ups for varied stimulation.
+## Current Routine  
+- **Plank Variations** (3 sets of 30-45 seconds): Start with side planks or traditional planks with added resistance to warm up the core.
+- **Dynamic Planks** (3 sets of 10-15 reps): Add shoulder taps or leg lifts while holding a plank to engage the core more dynamically.
+- **Chest Isolations** (3 sets of 12-15 reps): Perform chest flys with light resistance to target the chest without overloading the shoulders.
+- **Chest Press** (3 sets of 12-15 reps): Use dumbbells or resistance bands to press from your chest in a controlled manner.
+- **Wall Presses** (3 sets of 10-15 reps): Perform modified push-ups against a wall for chest activation with minimal shoulder involvement.
 
-Chest Press: Use dumbbells or resistance bands to build size.
+- **Sumo Squats** (3 sets of 12-15 reps): Focus on a wide stance and deep squat to engage the inner thighs and glutes.
+- **Side Lunges** (3 sets of 10-12 reps per leg): Perform lunges with a deep bend in the knee and maintain an upright torso.
+- **Bulgarian Split Squats** (3 sets of 10-12 reps per leg): Step back onto a bench and perform lunges with your front leg.
+- **Hip Thrusts** (3 sets of 10-12 reps): Perform with heavy resistance, ensuring full range of motion to isolate the glutes.
 
-Chest Flys: Lying or standing with resistance bands to shape pecs.
-
-Sumo Squats: Wider stance to target inner thighs.
-
-Side Lunges: Focuses on hip and thigh muscles.
-
-Leg Lifts: Resistance band side leg lifts for outer thigh growth.
-
-Hollow Body Holds: Core engagement while reducing strain.
-
-Mountain Climbers: Dynamic and core-focused.
-
-Plank Variations: Side planks or plank holds with added resistance.
-
-Hip Thrusts: Heavy resistance for glute isolation.
-
-Bulgarian Split Squats: Strengthens glutes and quads.
-
-Glute Kickbacks: With or without resistance bands for isolation.
+- **Leg Lifts** (3 sets of 15-20 reps): Perform slow, controlled leg lifts to engage the lower abs.
+- **Mountain Climbers** (3 sets of 20-30 reps per side): Bring your knees alternately towards your chest rapidly while in a plank.
+- **Hollow Body Holds** (3 sets of 20-30 seconds): Hold the position with arms and legs elevated off the ground for core stability.
+- **Glute Kickbacks** (3 sets of 12-15 reps per leg): Perform this with or without resistance bands to isolate the glutes.
 
 ## Tai Chi
 An ancient Chinese exercise method. Slow mindful movements. Excellent for those who are weaker, older, or chronically ill but can also be used as a energy conserving fighting style to out pace your opponent.
