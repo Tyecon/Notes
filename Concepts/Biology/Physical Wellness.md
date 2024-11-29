@@ -44,6 +44,31 @@ Extra:
 - Reach through (20): Lay down with knees up. Cross hands. Bend to touch knees.
 - Flutter Kicks (40): Bend/swing straight legs back and forth in air.
 
+##Current Routine
+Push-ups: Standard, incline, or diamond push-ups for varied stimulation.
+
+Chest Press: Use dumbbells or resistance bands to build size.
+
+Chest Flys: Lying or standing with resistance bands to shape pecs.
+
+Sumo Squats: Wider stance to target inner thighs.
+
+Side Lunges: Focuses on hip and thigh muscles.
+
+Leg Lifts: Resistance band side leg lifts for outer thigh growth.
+
+Hollow Body Holds: Core engagement while reducing strain.
+
+Mountain Climbers: Dynamic and core-focused.
+
+Plank Variations: Side planks or plank holds with added resistance.
+
+Hip Thrusts: Heavy resistance for glute isolation.
+
+Bulgarian Split Squats: Strengthens glutes and quads.
+
+Glute Kickbacks: With or without resistance bands for isolation.
+
 ## Tai Chi
 An ancient Chinese exercise method. Slow mindful movements. Excellent for those who are weaker, older, or chronically ill but can also be used as a energy conserving fighting style to out pace your opponent.
 
