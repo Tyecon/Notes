@@ -1,6 +1,7 @@
 # Calendar
-```calendar
-full
+```dataview
+CALENDAR file.day
+FROM "Journals"
 ```
 # Tasks
 ```dataview

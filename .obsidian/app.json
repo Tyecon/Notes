@@ -17,7 +17,7 @@
   "foldIndent": true,
   "defaultViewMode": "source",
   "readableLineLength": false,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "userIgnoreFilters": [
     "Chats/",
     "Templates/",

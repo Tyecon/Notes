@@ -1,11 +1,11 @@
 {
-  "env_data_dir": ".smart-env",
   "new_user": false,
   "legacy_transformers": false,
   "enable_mobile": false,
   "actions": {
     "lookup": true
   },
+  "smart_notices": {},
   "system_prompts_folder": "Prompts",
   "smart_chat_folder": "Chats",
   "smart_chat_folder_last": "Chats",
@@ -13,10 +13,12 @@
   "open_router": {},
   "api_key": "",
   "excluded_headings": "",
+  "folder_exclusions": "smart-chats",
   "show_full_path": false,
   "expanded_view": false,
   "language": "en",
-  "version": "2.2.76",
+  "version": "2.2.85",
+  "env_data_dir": ".smart-env",
   "env_data_dir_last": ".smart-env",
   "custom_local": {
     "model_name": "llama3.1",

@@ -1,4 +1,27 @@
 Tags: [[Psychology]], #Self-Help
+## Journaling
+#TODO/Writing-Prompt
+### Struthless' VOMIT System: [_The Journaling System that changed my life_](https://www.youtube.com/watch?v=U8RQsJ0Q3Mo)
+- Vent: Write what makes you angry. Dump your brain.
+- Obligations: Don't store problems, solve them
+	- Obligations Dump: Dump all the things you want or need to do
+	- Organise: Split into Family, Work, Hobbies, etc
+	- Prioritise: Which item on this list, if done will make the rest easier?
+	- Bare Minimum + Truncate: Split 'what is the minimum things I need to do to make tomorrow easier' and things you want to do.
+- Mindset: Improving your mindset
+	- Reframing: How is this the best thing that has happened to me?
+	- Possibility: Because Statements, give your affirmations evidence. I am X because...
+	- Inversion: Practice reactionary inversion, think of the opposite of the solution. Draw more = draw less by removing drawing tools.
+	- Perspective: Imagine giving a friend advice if they were in your current situation.
+	- Discipline: Journaling instead of social media
+	- Gratitude: Write done somethings you are grateful for. Something mundane, something chance, something you did.
+- Ideation: Write down all your random ideas throughout the day
+	- If you need a solution, come up with 30 in a time limit
+	- How would X solve this problem?
+	- Write the questions your brain has down. Come back to them later.
+- Trajectory:
+	- Direction: Goals, and the evidence you are moving towards or away from them. Write plans.
+	- Day to Day Metrics: Deal with hidden metrics. What excited me, what drained me, what did I learn?
 ## Curiosity
 Smart people often believe in stupid things. Identify your personal biases and use curiosity, learning, experimentation, humility, irony, and sarcasm to override, challenge, and verify your beliefs. Use belief as a tool.
 ## `="[[Journals/"+dateformat(date(now),"yyyy")+"]]"`
