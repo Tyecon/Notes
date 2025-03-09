@@ -3,27 +3,26 @@ Tags: #Self-Help, [[Security]]
 Reps: Failure-3 or Hold till fatigue
 ### Standing
 - Standing Staff/Tree Pose stretch (thank others 30-60s) into Flame Mudra (thank self 30-60s)
-- Arm circles (20)
-- Open the Gate/Standing Hip Rotations (20/10 per direction)
-- Slow Sumo Squats (20, 5-5-5 breath and arm movement)
-- Part The Wild Horse's Mane/Side Lunges (20/10 per leg)
-- Doorway Leg Swings/Donkey Kicks (20/10 per leg)
-- Doorway Push-Ups (To fatigue-3)
+- Arm circles (12)
+- Open the Gate/Standing Hip Rotations (10 per direction)
+- Side Squats/Part The Wild Horse's Mane (10 per leg)
+- Doorway Pushups (Slight fatigue)
+- Doorway Leg Swings/Donkey Kicks (10 per leg)
 - Resistance Band Chest Pulls (To slight fatigue, x2-3)
 - Tree in the Storm/Side Bends (20/10 per side)
-### Sitting & On Back Positions
-- Supported Shoulder Stand (30-60s, Don't break your neck)
-- Glute Bridges (15)
-- Clamshells (30/15 per side)
-- Side Lying Thigh Lifts (30/15 per side)
-- Oblique Twists (30/15 per side, slow)
-- Cross Crunches (15)
-- Ankle Touches (15)
+### Seated & Back Positions
+- Glute Bridges (12)
+- Leg Raises (15 per side)
+- Clamshells (15 per side)
+- Side Lying Thigh Lifts (15 per side)
+- Oblique Twists (10 per side, slow)
+- Cross Crunches (12)
+- Ankle Touches (12)
+- Boat Pose (20s 3x)
 ### Plank Position
-- Child's Pose into Cat-Cow (30-60s)
-- Superman Lifts (15)
-- Plank to fatigue, Child's Pose (x2-3)
-- Optional Decline Push-ups on Bed
+- [Side Plank Holds](https://youtu.be/kiVFaQAyZAE) (10-15s)
+- [Plank, Cobra, Downward Dog](https://youtu.be/nx5jO0UvBhM) Flow (2-3x)
+- [Cat-Cow into Child's Pose](https://youtu.be/GsJPpAtA2PY) (30-60s)
 ## Descriptions
 #TODO/Fix
 - Side Bends (12): Standing, feet apart, stretch arm above head past opposite foot

@@ -1,8 +1,9 @@
 # Food
 - [-] Sandwich stuff (Meats, condiments)
 - [x] Veges (Peppers)
-- [x] Wraps/Pitas/Naan
+- [x] Wraps/Pitas/Naan/Tostitos
 - [x] Morning rounds/Muffins
+- [x] Pasta/Noodles
 - [x] Bubbly
 - [x] Meats
 - [x] Juice
@@ -34,3 +35,5 @@ Amazon
 Mobile
 Obsidian (cancelled)
 Bitwarden
+Pokemon TCG
+Uber One

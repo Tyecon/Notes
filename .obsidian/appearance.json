@@ -7,5 +7,6 @@
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",
   "theme": "system",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": false
 }
