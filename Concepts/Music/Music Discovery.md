@@ -2,11 +2,12 @@
 tags:
   - TODO/Music
 ---
-- [ ] ⏫ Move concerts off laptop to NAS
+- [x] ⏫ Move concerts off laptop to NAS ✅ 2025-03-16
 - [ ] Knocked Loose - You won't go before you're supposed to
 - [ ] Opeth - Last Will and Testament
 - [ ] Daniel Tompkins Solo album
 - [ ] Tommy Giles Solo album
+- [ ] Dream Theater's New Album
 # Discographies
 ## David Bowie Discography
 - [ ] **David Bowie** (1967) - "Liza Jane", "Love You till Tuesday"

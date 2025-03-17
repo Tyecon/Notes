@@ -1,4 +1,4 @@
-> [!note]
+>[!note]
 ![[The Prince - Niccolo Machiavelli - 1513]]
 # YouTube: [_How Good People Lose Power | Machiavelli's The Prince_](https://www.youtube.com/watch?v=jU0ydXfieGA), Unsolicited Advice, 2024
 In this YouTube video Unsolicited Advice goes over Machiavelli's _The Prince_.

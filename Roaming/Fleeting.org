@@ -1,5 +1,0 @@
-#+title: ${title}
-#+created: %U
-#+filetags: :${Tags}:
-
-%?

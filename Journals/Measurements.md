@@ -1,0 +1,23 @@
+Soft Gamine
+- Feet:
+	- Length: 26cm
+	- Width: 10cm
+- Inseam: 31"
+- Lower Hips: 38"
+- Hips: 39"
+- Waist: 32.5"
+- Belly: 34"
+- Ribcage: 32"
+- Chest: 34.5"
+- Shoulders: 17"
+- Arms: 21"
+- Hand:
+	- Width: 3.5"
+	- Palm: 4.5"
+	- Middle Finger: 3"
+- Rings:
+	- Index: 8
+	- Middle: 8
+	- Ring: 7
+	- Pinky: 5
+	- Thumb: 9

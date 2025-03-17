@@ -11,14 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Concepts/Gaming/LOM.md",
-                "bFile": "Concepts/Gaming/LOM.md",
-                "aRef": ""
+                "file": "Journals/Dream Journal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: LOM"
+              "icon": "lucide-file",
+              "title": "Dream Journal"
             }
           }
         ]
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 233.5
   },
   "right": {
     "id": "53e17125e13f10bc",
@@ -107,7 +117,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -196,47 +208,48 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "83e592bdf87ea471",
   "lastOpenFiles": [
-    "Concepts/Biology/Physical Wellness.md",
-    "Concepts/Humanities/Spirituality/Tikun HaKlali.md",
-    "Journals/2024.md",
-    "Concepts/Gaming/LOM.md",
-    "Concepts/Humanities/Sociology/Psy-Ops.md",
-    "Journals/Grocery List.md",
-    "Concepts/Humanities/Sociology/Globalisation.md",
-    "Concepts/Humanities/Sociology/Welfare.md",
-    "Concepts/Humanities/Sociology/Finances.md",
-    "Concepts/Humanities/Psychology/Psychology.md",
-    "Concepts/Humanities/Sociology/Sociology.md",
-    "Homepage.md",
-    "Journals/{{YYYY}}.md",
-    "Journals/Dec 01, 2024.md",
-    "Templates/Snippets/Journal Entry.md",
-    "Projects/Notes.md",
-    "Journals/2024/Sep 16, 2024.md",
-    "Journals/2024/Dec 01, 2024.md",
-    "Journals/2024",
-    "Journals/{{YYYY}}/16-Sep-2024.md",
-    "Journals/{{YYYY}}",
-    "Journals/YYYY/16-Sep-2024.md",
-    "Journals/YYYY",
-    "Concepts/Humanities/Psychology/Mental Wellness.md",
+    "References/Friedrich Nietzsche/Uwberfurmench.md",
+    "Concepts/Technology/Tech Literacy.md",
     "Journals/Dream Journal.md",
-    "Concepts/Technology/Cooking.md",
-    "Concepts/Humanities/Spirituality/Exorcisms.md",
+    "Journals/2025.md",
+    "Concepts/Music/Guitar.md",
+    "Concepts/Music/Music Discovery.md",
+    "Concepts/Careers/Interview Questions.md",
+    "Concepts/Gaming/Blocks/Minecraft Server Setup.md",
+    "Concepts/Humanities/Sociology/Sociology.md",
     "Concepts/Biology/Sleep, Fatigue, and Dreams.md",
+    "Projects/Notes.md",
+    "Concepts/Technology/Databases.md",
+    "Projects/TestNote.md",
+    "Concepts/Humanities/Psychology/Psychology.md",
+    "Journals/2024.md",
+    "Concepts/Humanities/Knowledge Management/Knowledge Management.md",
+    "References/Sönke Ahrens/How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking - Sönke Ahrens - 2017.md",
+    "Concepts/Humanities/Sociology/Urban Planning.md",
+    "Concepts/Humanities/Sociology/Republics.md",
     "Concepts/Humanities/Psychology/Time Management & Productivity.md",
+    "Concepts/Humanities/Psychology/Mental Wellness.md",
+    "Roaming/Canadian Law.md",
+    "Concepts/Biology/Physical Wellness.md",
+    "Concepts/Humanities/Sociology/Welfare.md",
+    "Concepts/Humanities/Sociology/Psy-Ops.md",
+    "Concepts/Humanities/Sociology/Globalisation.md",
+    "References/Immanuel Kant",
+    "References/Vannevar Bush",
+    "Journals/2024",
+    "Journals/{{YYYY}}",
+    "Journals/YYYY",
     "Concepts/Psychology",
     "Concepts/Humanities/Spirituality",
     "Concepts/Biology",
     "References/Sönke Ahrens",
     "Concepts/Humanities/Knowledge Management",
-    "Templates/Snippets",
-    "References/Unsolicited Advice",
     "Roaming/Music Hierarchy.canvas",
     "Concepts/Gaming/Blocks/Omnian Gregory 2023/Machine Room.canvas",
     "Concepts/Gaming/Blocks/Omnian Gregory 2023/Biomass.canvas",

@@ -48,4 +48,4 @@ Structured notes on reading materials and media. The back of the card has the me
 ## Permanent Notes
 Fleeting notes are combined to make permanent notes. The small size of the cards keep the ideas short, and atomic. They are given an ID and linked together to form larger ideas, with a heuristic bottom-up approach to prevent option paralysis on sorting the notes. IDs of other related cards are put on the back of the card.
 
-![[How to Take Smart Notes - Sonke Ahrens - 2017]]
+![[How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking - Sönke Ahrens - 2017]]
