@@ -1,4 +1,4 @@
-# Personal Defense
+# Personal Defense in Canada
 - Sections 34 and 35 support self-defense and defense of property are not criminally culpable.
 - You can prevent someone from entering your property, stealing or damaging your property, and physically remove them from your property.
 - You can defend yourself or another if attacked.

@@ -13,9 +13,15 @@
 - [x] 🔼 Move College notes into Obsidian ✅ 2025-03-16
 	- [x] [[Databases]] ✅ 2025-03-16
 	- Check other notes
-- [ ] Note Encryption
+- [ ] :LiCloudCog: NextCloud setup
+	- [ ] Offsite backup
+	- [ ] Encryption
+	- [ ] Calendar
+	- [ ] Contacts
+	- [ ] Tasks
 - [ ] Mobile Obsidian Setup (git sync sucks)
 - [ ] Move Media Master List to Zotero  
+- [ ] Move google drive stuff to nextcloud
 ## IDEA Knowledge Management
 - Capture Notes in markup language : Markdown
 - Track anime, movies, tv shows, youtube, books, articles, webpages : Zotero

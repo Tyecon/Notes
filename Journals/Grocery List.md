@@ -35,5 +35,4 @@ Amazon
 Mobile
 Obsidian (cancelled)
 Bitwarden
-Pokemon TCG
 Uber One

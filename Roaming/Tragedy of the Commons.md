@@ -1,0 +1,2 @@
+Topics: [[Sociology]], [[Law]]
+The "tragedy of the commons" describes a situation where individuals, each acting in their own self-interest, overuse and deplete shared resources, even when it is in everyone's long-term interest to conserve them. Short-term thinking by leaders can undermine long-term sustainability efforts, and without hesitation and regulation this can cause a shift in success and power to those who ignore such controls.

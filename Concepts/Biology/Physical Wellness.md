@@ -80,7 +80,7 @@ An ancient Chinese exercise method. Slow mindful movements. Excellent for those 
 - Starving Tiger Mauls the Goat (Both Sides)
 - Golden Rooster Stands on One Leg
 ## Self Defense
-Tactical Flashlights and Personal Alarms should be legal everywhere and can blind attackers (esp high with dilated pupils) [[Canadian Law]]. Check out videos on fighting styles like Jiu-Jitsu, Krav Maga, Muay Thai, Judo, Wing Chun, MMA, Boxing. Other hobbies like HEMA, Airsoft Gunplay, and combat LARP can help.
+Tactical Flashlights and Personal Alarms should be legal everywhere and can blind attackers (esp high with dilated pupils) [[Law]]. Check out videos on fighting styles like Jiu-Jitsu, Krav Maga, Muay Thai, Judo, Wing Chun, MMA, Boxing. Other hobbies like HEMA, Airsoft Gunplay, and combat LARP can help.
 #TODO/Writing-Prompt
 
 [^1]: [_Tai Chi for Beginner's | Easy 5-Minute Form_](https://www.youtube.com/watch?v=Q6aZ-VQWWFM), Hybrid Calisthenics, 2020
